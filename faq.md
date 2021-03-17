@@ -28,7 +28,9 @@ The exact location will be revealed after purchase. It's beautiful protected old
 
 NFTs minted during the pre-sale will be around 50/Eth. Once you receive your NFTs you're welcome to sell them on any platform that supports EIP 721 or 1155(tbc) (opensea for example). After the pre-sale, presale participants are free to keep their NFTs or sell them or transfer them on any platfrorm and for any consideration or prices they like.
 
-If we're unable to raise 100 ETH, or unable to proceed for any reason, we'll return ETH to the sender address minus any ETH gas fees. _*DO NOT SEND FUNDS FROM AN EXCHANGE! You will not receive your funds back, or your NFTs if you do.*_
+If we're unable to raise 100 ETH, or unable to proceed for any reason, we'll return ETH to the sender address minus any ETH gas fees. 
+
+**DO NOT SEND FUNDS DIRECTLY FROM AN EXCHANGE! You will not receive your NFT or funds back if you do.**
 
 # What will the NFTs be worth?
 
