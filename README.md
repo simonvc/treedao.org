@@ -1,2 +1,0 @@
-# treedao.org
-treedao
