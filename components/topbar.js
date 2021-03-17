@@ -12,7 +12,7 @@ const TopBar = () => (
     </div>
     <div>
       <Button disabled={buttonDisabled}>
-        <p className={buttonDisabled ? "opacity-50" : ""}>Invest 🌳 💸</p>
+        <p className={buttonDisabled ? "opacity-50" : ""}>Pre-Sale 🌳 💸</p>
       </Button>
     </div>
   </div>
