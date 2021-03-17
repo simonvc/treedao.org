@@ -26,6 +26,8 @@ We are currently looking at a property just north of london, a short distance fr
 
 NFTs minted during the pre-sale will be around 50/Eth. Once you receive your NFTs you're welcome to sell them on any platform that supports EIP 721 or 1155(tbc) (opensea for example). They may well sell for a premium, meaning you'll make a profit.
 
+If we're unable to raise 100 ETH, or unable to proceed for any reason, we'll return ETH to the sender address (DO NOT SEND FUNDS FROM AN EXCHANGE!) minus any ETH gas fees.
+
 # What will the NFTs be worth?
 
 We plan on minting 5000 NFTs/100 ETH, at current ETH prices, we would therefore expect each NFT to cost roughly £50 each to mint (including some gas fees). If they are sold for more than that by presale participants, then presale participants will make a profit.
