@@ -1,14 +1,20 @@
 # Why an NFT + DAO?
 
-todo
+There are aspects of NFTs (Non Fungible Tokens) and aspects of Distributed Autonomous Organizations that we thing work really well together in this context. 
+
+NFTs are digital goods, that can be easily tracked and make good and novel gifts. People already gift Fungible, Ephemeral things, for example, gift cards, cut flowers, or "donation certificates". Unlike these gifts, NFTs attached to real world objects have ongoing value. 
+
+Recipients of a TreeDAO NFT, can use the voting power attached to the NFT, to have a say in how the woodlands are managed, and can vote to allow the DAO to raise more funding, and buy more woodlands. NFTs are also durable goods, and can be infinitely re-gifted, with the sender paying ETH gas fees. NFTs following EIP 1155 can be re-sold with a portion of the sale value returning to the DAO, to cover upkeep or expansion.
+
+Finally, the DAO provides a way to guarantee the minimum value of the NFT.. If the NFTs traded at far below the sale price of the woodland, someone could acquire 51% of the tokens, and vote to sell the land and return the money back to the NFT holders. 
 
 # Where is the woodland?
 
-We are currently looking at a property just north of london, a short distance from the tube line. NFT holders will be able to visit their NFT location, there is a public access bridleway through the woodland, that non-holders are welcome to use to visit the woodland.
+We are currently looking at a property just north of london, a short distance from the tube line. NFT holders will be able to visit their NFT location, there is a public access bridleway through the woodland, that non-NFT holders are welcome to use to visit the woodland.
 
 # Why should i buy into the presale?
 
-NFTs minted during the pre-sale will be around 50/Eth. Once you receive your NFTs you're welcome to sell them on any platform that supports EIP 721 (opensea for example). They may well sell for a premium, meaning you'll make a profit.
+NFTs minted during the pre-sale will be around 50/Eth. Once you receive your NFTs you're welcome to sell them on any platform that supports EIP 721 or 1155(tbc) (opensea for example). They may well sell for a premium, meaning you'll make a profit.
 
 # What will the NFTs be worth?
 
@@ -20,7 +26,7 @@ Yes, we'd love volunteers to come and help us take 5k photos. We'll provide a sp
 
 # Who will own the woodland?
 
-Within 12 months, we will setup a Community Interest Corporation and transfer any unused ETH, assets (treedao.eth and treedao.org) and ownership of the woodland.
+Within 12 months, we will setup a Community Interest Corporation and transfer any unspent ETH, assets (treedao.eth and treedao.org) and ownership of the woodland.
 
 # What is the DAO?
 
@@ -29,3 +35,14 @@ A DAO is an Distributed Autonomous Organization. For TreeDAO, this means that an
 The DAO will have an Articles of Association, that will also become the Articles for the Community Interest Corp that actually owns the woodland. In addition we'll have a negative feedback mechanism. To propose a Resolution, you must stake 1 NFT. The resolution passes if quorum is reached and more than 50% of votes are in favour. If quorum is not reached your NFT will be returned to you. If quorum is reached, and your resolution is rejected, your NFT will be burned.
 
 One thing the DAO may vote on, is creating more NFTs, raising more ETH, or buying additional woodlands.
+
+# How are you making money from this.
+
+I (Simon Vans-Colina) am participating in the pre-sale. I expect to sell a portion of my randomly allocated NFTs for a profit, and will retain a portion. 
+I am receiving no other compensation for this project. 
+
+1 amazing developer who wishes to remain anonymous, will receive 1% of the minted NFT as payment for building the presale site and NFT contract and a further 1% will be reserved for paying for the development of the DAO contract and associated website.
+
+# References
+
+Terra0 - https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf
