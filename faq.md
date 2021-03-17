@@ -1,3 +1,8 @@
+# What is TreeDAO
+
+TreeDAO is a distributed autonomous organization (DAO) that is raising ~100 ETH to buy a woodland. It will do this by issuing circa 5000 NFTs. These NFTs will represent aspects of the woodland, and take the form of a geotagged photo taken in the woodland after purchase. The NFTs will also have voting rights, 1 vote per NFT that will control how the DAO is run, and what happens to the woodland.
+These NFTs will make ideal durable digital gifts. They will conform to NFT standards and be tradable on open platforms that support EIP 729 or 1155.
+
 # Why an NFT + DAO?
 
 There are aspects of NFTs (Non Fungible Tokens) and aspects of Distributed Autonomous Organizations that we thing work really well together in this context. 
