@@ -48,7 +48,7 @@ Some NFTs will be rarer than others. There are, for example, several beautiful o
 
 # Who will own the woodland?
 
-Within 12 months, we will setup a Community Interest Corporation and transfer any unspent ETH, assets (treedao.eth and treedao.org) and ownership of the woodland.
+Within 12 months, we will setup a Community Interest Company ( https://www.gov.uk/set-up-a-social-enterprise ) and transfer any unspent ETH, assets (treedao.eth and treedao.org) and ownership of the woodland.
 
 # What is the DAO?
 
@@ -82,3 +82,5 @@ Buterin,  Vitalik:  Bootstrapping  A  Decentralized  Autonomous  Corporation:  P
 Buterin,  Vitalik:  DAOs,  DACs,  DAs  and  More:  An  Incomplete  Terminology  Guide,  06.05.2014, https://blog.ethereum.org,  URL: https://blog.ethereum.org/92014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/ 
 
 Crowdsale: Raising Funds From Friends Without A Third Party, 28.07.2016, https://ethereum.org, URL: https://ethereum.org/crowdsale
+
+Community Interest Companies: https://www.gov.uk/set-up-a-social-enterprise https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies
