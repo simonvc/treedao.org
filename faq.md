@@ -51,3 +51,17 @@ I am receiving no other compensation for this project.
 # References
 
 Terra0 - https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf
+ 
+Could  driverless  cars  own  themselves,  16.02.2015,  http://bbc.com,  URL:  http://www.bbc.com/news/3technology-30998361 
+
+Constitution Of The Republic Of Ecuador - Title II: Rights, Article 724 
+
+Bitcoin  the  enabler  -  Truly  Autonomous  Software  Agents  roaming  the  net,  06.12.2011,  https://bitcountalk.org,  URL: https://bitcointalk.org/index.php?6topic=53855.0  
+
+Bitcoin  the  enabler  -  Truly  Autonomous  Software  Agents  roaming  the  net,  07.12.2011,  05:45:45  AM,  https://bitcountalk.org,  URL:  https://7bitcointalk.org/index.php?topic=53855.0  
+ 
+Buterin,  Vitalik:  Bootstrapping  A  Decentralized  Autonomous  Corporation:  Part  I,  20.09.2013,  02:31:00  AM, https://bitcoinmagazine.com,  URL: https://8bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274   
+
+Buterin,  Vitalik:  DAOs,  DACs,  DAs  and  More:  An  Incomplete  Terminology  Guide,  06.05.2014, https://blog.ethereum.org,  URL: https://blog.ethereum.org/92014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/ 
+
+Crowdsale: Raising Funds From Friends Without A Third Party, 28.07.2016, https://ethereum.org, URL: https://ethereum.org/crowdsale
