@@ -26,13 +26,13 @@ The exact location will be revealed after purchase. It's beautiful protected old
 
 # Why should i buy into the presale?
 
-NFTs minted during the pre-sale will be around 50/Eth. Once you receive your NFTs you're welcome to sell them on any platform that supports EIP 721 or 1155(tbc) (opensea for example). They may well sell for a premium, meaning you'll make a profit.
+NFTs minted during the pre-sale will be around 50/Eth. Once you receive your NFTs you're welcome to sell them on any platform that supports EIP 721 or 1155(tbc) (opensea for example). After the pre-sale, presale participants are free to keep their NFTs or sell them or transfer them on any platfrorm and for any consideration or prices they like.
 
 If we're unable to raise 100 ETH, or unable to proceed for any reason, we'll return ETH to the sender address (DO NOT SEND FUNDS FROM AN EXCHANGE!) minus any ETH gas fees.
 
 # What will the NFTs be worth?
 
-We plan on minting 5000 NFTs/100 ETH, at current ETH prices, we would therefore expect each NFT to cost roughly £50 each to mint (including some gas fees). If they are sold for more than that by presale participants, then presale participants will make a profit.
+We plan on minting 5000 NFTs/100 ETH, at current ETH prices, we would therefore expect each NFT to cost roughly £30 each to mint (including some gas fees). If they are sold for more than that by presale participants, then presale participants will make a profit.
 
 # Can i help create the NFTs?
 
@@ -58,9 +58,10 @@ The DAO will have an Articles of Association, that will also become the Articles
 
 One thing the DAO may vote on, is creating more NFTs, raising more ETH, or buying additional woodlands.
 
-# How are you making money from this.
+# How are you making money from this?
 
-I (Simon Vans-Colina) am participating in the pre-sale. I expect to sell a portion of my randomly allocated NFTs for a profit, and will retain a portion. 
+I (Simon Vans-Colina) am participating in the pre-sale. I will to sell a portion of my randomly allocated NFTs, and will retain a portion.
+
 I am receiving no other compensation for this project. 
 
 1 amazing developer who wishes to remain anonymous, will receive 1% of the minted NFT as payment for building the presale site and NFT contract and a further 1% will be reserved for paying for the development of the DAO contract and associated website.
