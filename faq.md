@@ -24,6 +24,11 @@ We plan on minting 5000 NFTs/100 ETH, at current ETH prices, we would therefore 
 
 Yes, we'd love volunteers to come and help us take 5k photos. We'll provide a special camera app that attaches GPS coordinates to the image as it's taken.
 
+# How will NFTs be allocated?
+
+NFTs will be randomly distributed to pre-sale participants. Naming rights for the woodland will pass to the holder of the most NFTs at the end of the pre-sale, and will be represented by an NFT, that will have the right to rename the woodland without requiring a DAO vote. 
+Some NFTs will be rarer than others. There are, for example, several beautiful old grow oak trees, that we expect will be extremely valuable as NFTs. These like all other NFTs will be randomly distributed at the end of the presale.
+
 # Who will own the woodland?
 
 Within 12 months, we will setup a Community Interest Corporation and transfer any unspent ETH, assets (treedao.eth and treedao.org) and ownership of the woodland.
