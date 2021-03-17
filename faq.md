@@ -26,7 +26,8 @@ Yes, we'd love volunteers to come and help us take 5k photos. We'll provide a sp
 
 # How will NFTs be allocated?
 
-NFTs will be randomly distributed to pre-sale participants. Naming rights for the woodland will pass to the holder of the most NFTs at the end of the pre-sale, and will be represented by an NFT, that will have the right to rename the woodland without requiring a DAO vote. 
+NFTs will be randomly distributed to pre-sale participants. 
+Naming rights for the woodland will pass to the holder of the most NFTs at the end of the pre-sale, and will be represented by an NFT, that will have the right to rename the woodland without requiring a DAO vote. 
 Some NFTs will be rarer than others. There are, for example, several beautiful old grow oak trees, that we expect will be extremely valuable as NFTs. These like all other NFTs will be randomly distributed at the end of the presale.
 
 # Who will own the woodland?
