@@ -22,6 +22,8 @@ Finally, the DAO provides a way to guarantee the minimum value of the NFT.. If t
 
 We are currently looking at a property just north of london, a short distance from the tube line. NFT holders will be able to visit their NFT location, there is a public access bridleway through the woodland, that non-NFT holders are welcome to use to visit the woodland.
 
+The exact location will be revealed after purchase. It's beautiful protected old growth broadleaf, in an area of natural beauty just outside the M25.
+
 # Why should i buy into the presale?
 
 NFTs minted during the pre-sale will be around 50/Eth. Once you receive your NFTs you're welcome to sell them on any platform that supports EIP 721 or 1155(tbc) (opensea for example). They may well sell for a premium, meaning you'll make a profit.
