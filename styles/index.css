@@ -14,6 +14,10 @@
   background: #3f4a3c;
 }
 
+.bg-red {
+  background: #ff6063;
+}
+
 .bg-middle-green {
   background: #dff8d5;
 }
@@ -45,4 +49,33 @@ body {
   -webkit-text-fill-color: transparent;
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
+}
+
+.notification-bg-error {
+  background-color: #ff4f5d;
+}
+
+.notification-bg-success {
+  background-color: #54a242;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px #142738;
+}
+
+.width-transition {
+  transition: width 4000ms ease-in-out;
+}
+
+.progress-bar-animation {
+  animation: progress-bar 4s ease-in-out forwards;
+}
+
+@keyframes progress-bar {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
 }
