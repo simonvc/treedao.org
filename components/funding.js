@@ -38,9 +38,11 @@ const Funding = ({ balanceInEth }) => {
         <div className="flex flex-col text-center w-full">
           <p className="font-normal mb-8">
             The TreeDAO is raising{" "}
-            <b>goalInEth {ethers.constants.EtherSymbol}</b> and putting a
-            protected old-growth woodland near London on your favourite NFT
-            platform.
+            <b>
+              {goalInEth} {ethers.constants.EtherSymbol}
+            </b>{" "}
+            and putting a protected old-growth woodland near London on your
+            favourite NFT platform.
           </p>
           <br />
           <p className="font-normal mb-8">
