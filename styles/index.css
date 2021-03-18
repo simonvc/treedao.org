@@ -2,24 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.bg-gray-900 {
-  background: #111223;
-}
-
 .bg-natural-light {
   background: #f8fff8;
-}
-
-.bg-dark-green {
-  background: #3f4a3c;
-}
-
-.bg-red {
-  background: #ff6063;
-}
-
-.bg-middle-green {
-  background: #dff8d5;
 }
 
 body {
