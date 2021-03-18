@@ -10,7 +10,7 @@ const Web3ReadOnlyProvider = ({ children }) => {
 
   useEffect(() => {
     const provider = new ethers.providers.InfuraProvider("homestead", {
-      projectId: process.env.projectId,
+      projectId: process.env.NEXT_PUBLIC_INFURA_ID,
     });
 
     setWeb3ReadOnlyProvider(provider);

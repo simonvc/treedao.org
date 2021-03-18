@@ -50,16 +50,3 @@ body {
 .width-transition {
   transition: width 4000ms ease-in-out;
 }
-
-.progress-bar-animation {
-  animation: progress-bar 4s ease-in-out forwards;
-}
-
-@keyframes progress-bar {
-  0% {
-    width: 0%;
-  }
-  100% {
-    width: 100%;
-  }
-}
