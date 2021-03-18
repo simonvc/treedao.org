@@ -192,6 +192,17 @@ const ModalButton = ({ setNotification, setTransactionSuccess, children }) => {
                     const accounts = await ethereum.request({
                       method: "eth_requestAccounts",
                     });
+                    if (!accounts[0]) {
+                      setNotification("Unable to connect to MetaMask.");
+                      closeModal();
+                      return;
+                    } else if (ethereum.chainId !== "0x1") {
+                      setNotification(
+                        "Chain ID does not match Ethereum Mainnet. Please check your MetaMask network."
+                      );
+                      closeModal();
+                      return;
+                    }
                     ethereum
                       .request({
                         method: "eth_sendTransaction",
