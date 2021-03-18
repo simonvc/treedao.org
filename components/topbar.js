@@ -13,7 +13,7 @@ const TopBar = ({ setNotification, setTransactionSuccess }) => (
         setNotification={setNotification}
         setTransactionSuccess={setTransactionSuccess}
       >
-        <p className={buttonDisabled ? "opacity-50" : ""}>Pre-sale 🌳 💸</p>
+        <p>Pre-sale 🌳 💸</p>
       </ModalButton>
     </div>
   </div>
