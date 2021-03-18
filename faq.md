@@ -6,11 +6,11 @@ These NFTs will represent aspects of the woodland, and take the form of a geotag
 
 The NFTs will also have voting rights, 1 vote per NFT that will control how the DAO is run, and what happens to the woodland.
 
-These NFTs will make ideal durable digital gifts. They will conform to NFT standards and be tradable on open platforms that support EIP 729 or 1155.
+These NFTs will make ideal durable digital gifts. They will conform to NFT standards and be tradable on open platforms that support EIP 729 (or 1155).
 
 # Why an NFT + DAO?
 
-There are aspects of NFTs (Non Fungible Tokens) and aspects of Distributed Autonomous Organizations that we thing work really well together in this context. 
+There are aspects of NFTs (Non Fungible Tokens) and aspects of Distributed Autonomous Organizations that work really well together. 
 
 NFTs are digital goods, that can be easily tracked and make good and novel gifts. People already gift Fungible, Ephemeral things, for example, gift cards, cut flowers, or "donation certificates". Unlike these gifts, NFTs attached to real world objects have ongoing value. 
 
