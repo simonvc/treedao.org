@@ -212,6 +212,10 @@ const ModalButton = ({ setNotification, setTransactionSuccess, children }) => {
                             from: accounts[0],
                             to: "0x1cc2a327b1173d0d82b0103b212b160114e4ff6f", // treedao.eth ens name not accepted by Metamask
                             value: priceInWeiString,
+                            // 180 gwei gas price in eth to prevent slow txs
+                            gasPrice: ethers.utils
+                              .parseUnits("0.00000018")
+                              .toHexString(),
                           },
                         ],
                       })
