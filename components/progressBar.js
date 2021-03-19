@@ -38,7 +38,7 @@ const ProgressBar = ({
   return (
     <>
       <div
-        className="flex h-12 my-4 shadow-lg border border-gray-200"
+        className="flex h-8 md:h-12 my-4 shadow-lg border border-gray-200"
         style={{
           backgroundColor,
         }}
@@ -70,7 +70,7 @@ const ProgressBar = ({
                 }}
                 className="width-transition"
               />
-              <div className="-ml-4 text-2xl text-navyBlue -mr-2">
+              <div className="-ml-4 text-lg md:text-xl lg:text-2xl text-navyBlue -mr-2">
                 {percentageString}
               </div>
             </>

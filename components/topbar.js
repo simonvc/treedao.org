@@ -1,13 +1,14 @@
 import React from "react";
 
-import Tree from "./tree";
 import ModalButton from "./modalButton";
 
 const TopBar = ({ setNotification, setTransactionSuccess }) => (
   <div className="flex w-full bg-natural-light h-24 mx-auto py-4 px-4 items-center justify-between shadow-md">
-    <div className="w-16 h-16 md:w-20 md:h-20">
-      <Tree />
-    </div>
+    <img
+      src="/TreeDaoLogoCropped.png"
+      alt="TreeDAO Logo"
+      style={{ height: "100%" }}
+    />
     <div>
       <ModalButton
         setNotification={setNotification}

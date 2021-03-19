@@ -175,7 +175,8 @@ const ModalButton = ({ setNotification, setTransactionSuccess, children }) => {
                 ) : (
                   <p>
                     If the above amount looks ok, click the button to open
-                    Metamask and complete the transaction.
+                    Metamask and complete the transaction. Make sure the "to"
+                    address resolves to <b>treedao.eth</b>!
                   </p>
                 )}
               </div>

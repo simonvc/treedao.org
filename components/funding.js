@@ -13,7 +13,7 @@ const Funding = ({ balanceInEth }) => {
 
   return (
     <div className="w-full flex flex-grow">
-      <div className="container px-4 pt-8 pb-16  mx-auto flex flex-col items-center justify-around text-center text-xl md:text-2xl lg:text-4xl leading-9 font-bold md:font-extrabold text-navyBlue w-full">
+      <div className="container px-8 pt-8 pb-16  mx-auto flex flex-col items-center justify-around text-center text-xl md:text-2xl lg:text-4xl leading-9 font-bold md:font-extrabold text-navyBlue w-full">
         {!balanceInEth ? (
           <div className="w-full h-32 py-8 font-normal">
             <p>Loading...</p>
