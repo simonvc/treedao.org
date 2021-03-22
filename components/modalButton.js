@@ -38,6 +38,7 @@ const ModalButton = ({ setNotification, setTransactionSuccess, children }) => {
   return (
     <>
       <Button
+        disabled
         onClick={async () => {
           if (typeof window.ethereum !== "undefined") {
             console.log("MetaMask detected 👍");

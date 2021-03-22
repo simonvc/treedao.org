@@ -14,7 +14,7 @@ const TopBar = ({ setNotification, setTransactionSuccess }) => (
         setNotification={setNotification}
         setTransactionSuccess={setTransactionSuccess}
       >
-        <p>Pre-sale 🌳 💸</p>
+        <p>Sold out! 🎉</p>
       </ModalButton>
     </div>
   </div>
