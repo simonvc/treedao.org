@@ -9,6 +9,8 @@ const Hero = () => {
         Why send flowers when you can send a whole NFTree?
       </h2>
     </div>
+    <hr/>
+    <div> Read the <a href=https://docs.google.com/document/d/12pXHn7X1PDRK_D8YshHIktGklM7PgE-n4udueQVx8Cs/edit?usp=sharing>Whitepaper</a></div>
   );
 };
 
