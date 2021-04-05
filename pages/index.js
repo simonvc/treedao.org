@@ -18,7 +18,7 @@ const Index = () => {
   useEffect(() => {
     if (transactionSuccess) {
       const getBalance = async () => {
-        const newBalance = await web3ReadOnlyProvider.getBalance("treedao.eth");
+        const newBalance = 100;
         setBalanceInEth(ethers.utils.formatEther(newBalance.toString()));
       };
 
