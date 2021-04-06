@@ -10,7 +10,7 @@ import Funding from "../components/funding";
 import Footer from "../components/footer";
 
 const Index = () => {
-  const { balance, web3ReadOnlyProvider } = useWeb3ReadOnly();
+  // const { balance, web3ReadOnlyProvider } = useWeb3ReadOnly();
   const [balanceInEth, setBalanceInEth] = useState(null);
   const [notification, setNotification] = useState(null);
   const [transactionSuccess, setTransactionSuccess] = useState(null);
