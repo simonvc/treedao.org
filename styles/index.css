@@ -15,6 +15,29 @@ body {
   color: #111223;
 }
 
+.main-content {
+  height: 100vh;
+}
+
+.video-container {
+  z-index: -2;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.color-overlay {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: lightblue;
+  opacity: .7;
+}
 .gradient-text {
   font-family: "Archivo Black", sans-serif;
   /* Fallback: Set a background color. */

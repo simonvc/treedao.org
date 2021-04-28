@@ -18,28 +18,12 @@ const Funding = ({ balanceInEth }) => {
     <div className="w-full flex flex-grow">
       <div className="container px-8 pt-8 pb-16  mx-auto flex flex-col items-center justify-around text-center text-xl md:text-2xl lg:text-4xl leading-9 font-bold md:font-extrabold text-navyBlue w-full">
         <div className="w-full h-32">
-          <ProgressBar
-            //balanceLoaded={balanceInEth}
-            balanceLoaded={true}
-            percentage={percentage}
-            percentageString={percentageString}
-            backgroundColor="white"
-            visualParts={[
-              {
-                percentage: percentageString,
-                color: "#13648d",
-              },
-            ]}
-          />
+          <a href="https://opensea.io/assets/treedao-nftrees-v2">Buy NFTs now on OpenSea.io</a>
         </div>
 
         <div className="flex flex-col text-center w-full">
           <p className="font-normal mb-8">
-            The TreeDAO is raising{" "}
-            <b>
-              {goalInEth} {ethers.constants.EtherSymbol}
-            </b>{" "}
-            and putting a protected old-growth woodland near London on your
+            The TreeDAO is buying, planting, rewilding and protecting woodland and bringing trees your
             favourite NFT platform.
           </p>
           <br />

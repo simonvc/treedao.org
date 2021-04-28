@@ -15,30 +15,20 @@ const Index = () => {
   const [notification, setNotification] = useState(null);
   const [transactionSuccess, setTransactionSuccess] = useState(null);
 
-  // useEffect(() => {
-  //   if (transactionSuccess) {
-  //     const getBalance = async () => {
-  //       const newBalance = 100;
-  //       setBalanceInEth(ethers.utils.formatEther(newBalance.toString()));
-  //     };
-
-  //     getBalance();
-  //   }
-  // }, [transactionSuccess]);
-
-  // useEffect(() => {
-  //   if (balance && !transactionSuccess) {
-  //     setBalanceInEth(ethers.utils.formatEther(balance.toString()));
-  //   }
-  // }, [balance, transactionSuccess]);
 
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className=".main-content">
       <TopBar
         setNotification={setNotification}
         setTransactionSuccess={setTransactionSuccess}
       />
       {notification && <Notification notificationText={notification} />}
+      <div class="video-container">
+        <div class="color-overlay"></div>
+        <video autoPlay loop muted>
+          <source src="/loop.mp4" type="video/mp4"></source>
+        </video>
+      </div>
       <Hero />
       <Funding balanceInEth={balanceInEth} />
       <Footer />

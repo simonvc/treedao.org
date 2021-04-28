@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "./button";
 
 import ModalButton from "./modalButton";
 
@@ -10,12 +11,12 @@ const TopBar = ({ setNotification, setTransactionSuccess }) => (
       style={{ height: "100%" }}
     />
     <div>
-      <ModalButton
+      <Button
         setNotification={setNotification}
         setTransactionSuccess={setTransactionSuccess}
       >
-        <p>Sold out! 🎉</p>
-      </ModalButton>
+        <p>Members Login </p>
+      </Button>
     </div>
   </div>
 );
