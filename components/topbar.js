@@ -15,7 +15,7 @@ const TopBar = ({ setNotification, setTransactionSuccess }) => (
         setNotification={setNotification}
         setTransactionSuccess={setTransactionSuccess}
       >
-        <p>Members Login </p>
+        <p><a href="https://members.treedao.org/">Members Login</a></p>
       </Button>
     </div>
   </div>
