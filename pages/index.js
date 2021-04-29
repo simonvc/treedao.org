@@ -17,7 +17,7 @@ const Index = () => {
 
 
   return (
-    <div className=".main-content">
+    <div class=".main-content">
       <TopBar
         setNotification={setNotification}
         setTransactionSuccess={setTransactionSuccess}
