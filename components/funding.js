@@ -19,7 +19,7 @@ const Funding = ({ balanceInEth }) => {
       <div className="container px-8 pt-8 pb-16  mx-auto flex flex-col items-center justify-around text-center text-xl md:text-2xl lg:text-4xl leading-9 font-bold md:font-extrabold text-navyBlue w-full">
         <div className="w-full h-32 items-center">
           <button className={`items-center  px-5 py-3 border border-transparent text-2xl leading-6 font-medium rounded-md text-offWhite rounded-md shadow bg-navyBlue hover:bg-saturatedDarkBlue focus:outline-none focus:shadow-outline disabled:opacity-75 disabled:cursor-not-allowed transition duration-150 ease-in-out `} >
-           <a href="https://opensea.io/assets/treedao-nftrees-v2">Buy NFTs now on OpenSea.io</a>
+           <a href="https://opensea.io/assets/treedao-nftree">Buy NFTs now on OpenSea.io</a>
           </button>
         </div>
 
